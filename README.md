@@ -1,6 +1,6 @@
-Hi, my name is Benjamin
-I'm interested in Machine Learning and Data Science, but also cooking!
-I'm currently learning DataBase Management Systems and Machine Learning Techniques
+Hi, my name is Benjamin <br>
+I'm interested in Machine Learning and Data Science, but also cooking!<br>
+I'm currently learning DataBase Management Systems and Machine Learning Techniques<br>
 Feel Free to reach me at benjaminhu@outlook.com
 
 <!---
